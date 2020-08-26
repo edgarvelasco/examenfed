@@ -1,0 +1,9 @@
+Dependencias:
+ firebase
+ vue-router
+ core.js
+ axios
+ 
+ Install taildwind CSS
+ 
+ Cambiar el puerto predeterminado 8080 de donde corre vue, al puerto 4000 ya que el backend correrá en el 8080
